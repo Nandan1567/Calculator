@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 A calculator is a application that performs arithmetic operations on numbers. This calculators can do only addition, subtraction, multiplication, and division.
 
 
@@ -7,12 +7,12 @@ A calculator is a application that performs arithmetic operations on numbers. Th
 Clone the repository
 
 ```
-git clone https://github.com/Nandan1567/calculator.git
+git clone https://github.com/Nandan1567/Calculator.git
 
 Your server is set up with all the APIs active.
 
 
-Go to 'calculator/calculator' and type the following code in the terminal:
+Go to 'Calculator/calculator' and type the following code in the terminal:
 
 ```
 npm install
